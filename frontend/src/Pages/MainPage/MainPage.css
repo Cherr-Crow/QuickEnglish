@@ -1,0 +1,39 @@
+.main__title {
+    margin-bottom: 30px;
+    max-width: 550px;
+    font-size: 36px;
+}
+
+.main__title-span {
+ color: #9532FF;
+}
+
+.main__descr {
+    margin-bottom: 60px;
+    font-size: 20px;
+    
+}
+
+.main__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main__item {
+    display: grid;
+    justify-content: space-between;
+}
+
+.main__item-title {
+    max-width: 265px;
+    font-size: 16px;
+    order: -6;
+
+    align-self: flex-end;
+}
+
+.main__item-img {
+    height: 130px;
+    width: 100%;
+    background-color: #9532FF;
+}

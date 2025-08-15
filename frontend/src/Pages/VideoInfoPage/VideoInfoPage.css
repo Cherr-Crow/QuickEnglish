@@ -1,0 +1,27 @@
+.info__video {
+    border-radius: 40px;
+}
+
+.info__title {
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.info__list {
+    margin-bottom: 30px;
+}
+
+.info__descr {
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
+.info__item:not(:last-child) {
+    margin-bottom: 12px;
+}
+
+.info__item span {
+    margin-right: 12px;
+    font-weight: bold;
+}
